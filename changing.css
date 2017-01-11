@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: monospace;
+  background: url('http://www.drodd.com/images15/science16.jpg') #000 no-repeat;
+  background-size: 100%;        
+}
+
+#name {
+  text-align: center;
+  font-size: 56px;
+  margin-top: 10%;
+  color: #fff;
+}
+
+#name span { color: #ADD8E6 }
+        
+#ilike {
+  text-align: center;
+  font-size: 66px;
+  margin-top: 20%;
+  color: #fff;
+}
+
+#ilike span { color: #FD4140 }
+
